@@ -1,6 +1,0 @@
-safe: true
-auto: true
-server: true
-pygments: true
-lsi: false
-permalink: /news/:year/:month/:day/:title.html
